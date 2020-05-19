@@ -1,2 +1,1 @@
-# Nojoto-Tasks
-Nojoto Internship Tasks
+# Nojoto Internship Tasks
